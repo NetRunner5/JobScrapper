@@ -11,7 +11,6 @@ pip3 install pandas
 ```
 
 ## Contents 
-
 The contents of the result .csv are as follows:
 * **JobTitle**: Job position
 * **Company**: Company that offers the position
@@ -21,6 +20,9 @@ The contents of the result .csv are as follows:
 * **PostDate**: Relative date given by the job site
 * **ExtractionDate**: Date the the data was extracted
 * **JobUrl**: Url of the job details
+
+## Team members
+Junjie Zhu and Antoni Sanchez Teruel
 
 ## License
 The license chosen for the publication of this data set has been **CC0: Public Domain License**. The reason why this license has been chosen is because this project has been a means of learning and a tool to carry out a job market study for those interested.
