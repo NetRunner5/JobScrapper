@@ -32,7 +32,7 @@ Preffered_Position | Preferred position
 Work_Rate | qualitative assessment in terms of attack-defense
 Weak_foot | rating of 1 to 5 control and power of the leg not preferred
 Skill_Moves | rating of 1 to 5 of the player's ability to move
-                   | The other variables refer to player attributes.
+- | The other variables refer to player attributes.
 
 ## Team members
 Junjie Zhu and Antoni Sanchez Teruel
