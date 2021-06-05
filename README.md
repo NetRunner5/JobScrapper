@@ -12,21 +12,30 @@ pip3 install pandas
 
 ## Contents 
 The contents of the result .csv are as follows:
-* **JobTitle**: Job position
-* **Company**: Company that offers the position
-* **CompanyRating**: Company rating by the users of the job site
-* **JobLocation**: Location of job position
-* **Remote**: Boolean that indicates if its remote or not
-* **PostDate**: Relative date given by the job site
-* **ExtractionDate**: Date the the data was extracted
-* **JobUrl**: Url of the job details
+Variable | Description
+------------------ | -------------------
+Name | Player name
+Nationality | Nationality of the player
+National_Position | Position in the national team
+National_Kit | Equipment number on the national team
+Club | Name of the club
+Club_Position | Position of play in the club
+Club_Kit | Equipment number at the club
+Club_Joining | Date he started at the club
+Contract_Expire | Year end of the contract
+Rating | Overall rating of the player, between 0 and 100
+Height | Height
+Weight | Weight
+Preffered_Foot | Little favorite
+Age | Age
+Preffered_Position | Preferred position
+Work_Rate | qualitative assessment in terms of attack-defense
+Weak_foot | rating of 1 to 5 control and power of the leg not preferred
+Skill_Moves | rating of 1 to 5 of the player's ability to move
+                   | The other variables refer to player attributes.
 
 ## Team members
 Junjie Zhu and Antoni Sanchez Teruel
 
 ## License
-The license chosen for the publication of this data set has been **CC0: Public Domain License**. The reason why this license has been chosen is because this project has been a means of learning and a tool to carry out a job market study for those interested.
-
-## Resources
-Lawson, R. (2015). Web Scraping with Python. Packt Publishing Ltd. Chapter 2. Scraping the Data  
-Mitchel, R. (2015). Web Scraping with Python: Collecting Data from the Modern Web. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
+The license chosen for the publication of this data set has been **MIT License**
